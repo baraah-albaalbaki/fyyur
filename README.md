@@ -1,4 +1,3 @@
-# fyyur
 Fyyur
 -----
 
